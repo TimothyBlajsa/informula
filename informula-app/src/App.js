@@ -40,7 +40,7 @@ const App = () => {
   return (
     <div className="App">
       <div className='products'>
-        
+        <Product />
       </div>
     </div>
   );
